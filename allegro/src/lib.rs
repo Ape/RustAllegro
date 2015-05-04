@@ -6,7 +6,6 @@
 #![crate_type = "lib"]
 
 #![feature(optin_builtin_traits)]
-#![feature(libc)]
 #![feature(std_misc)]
 
 extern crate libc;
